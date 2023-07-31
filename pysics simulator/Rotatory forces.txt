@@ -1,0 +1,18 @@
+3 distâncias para calcular movimento rotatório e linear em ação e reação:
+1. Distância máxima do centro de gravidade (Dm).
+2. Distância do impacto ao centro (Dc).
+3. Diferença entre a posição do impacto e distância máxima (Dd).
+
+3 Forças na ação:
+1. Força de impacto (força máxima/ Fm).
+2. Força rotatória (Fr)
+3. Força linear (Fl).
+
+3 Proporções entre distância e força:
+1. Dm = Fm
+2. Dc = Fr
+3. Dd = Fl
+
+Linear force
+Fl/Fm = Dd/Dm
+Fl = Dd * Fm / Dm
