@@ -11,6 +11,7 @@ pygame.init()
 display = pygame.display.set_mode([1000, 500])
 pygame.display.set_caption('an attempt at a game')
 clock = pygame.time.Clock()
+
 gameLoop = True
 finalTime = time()-1
 # game variables
